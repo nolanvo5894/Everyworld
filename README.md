@@ -26,6 +26,18 @@ Players can spectate or jump in as a participant, negotiating deals, forming all
 | LLM (TTS) | Gemini 2.5 Flash Preview TTS |
 | Storage | IndexedDB |
 
+## Architecture
+
+![Architecture Overview](arch_0.png)
+
+![Architecture Detail 1](arch_1.png)
+
+![Architecture Detail 2](arch_2.png)
+
+![Architecture Detail 3](arch_3.png)
+
+![Architecture Detail 4](arch_4.png)
+
 ## Setup
 
 ```bash
